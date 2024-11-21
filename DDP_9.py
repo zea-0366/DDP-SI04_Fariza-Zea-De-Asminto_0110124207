@@ -17,7 +17,7 @@ def skor(nilai):
   else:
     print("Gagal")
 skor(80)
-skor(60)
+skor(60) 
 
 print("\n--------Mencari bilangan ganjil--------")
 def bil_ganjil(ganjil):
